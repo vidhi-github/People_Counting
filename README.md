@@ -10,7 +10,6 @@ The **People Counting System** is a computer vision-based application designed t
 - 📈 Accurate counting of individuals moving in different directions.  
 - 🏃 Person detection using YOLOv8 and MTCNN models.  
 - 🎥 Frame-wise processing using OpenCV.  
-- ⚡ GPU acceleration with CUDA for faster inference.  
 - 🌐 Flask-based web interface for real-time result visualization.  
 
 ---
