@@ -28,7 +28,7 @@ The **People Counting System** is a computer vision-based application designed t
 
 ## **Data Annotation**  
 - **Annotation Tool:** `cv2` library for frame-based annotation.  
-- **Format:** Pascal VOC (XML) or JSON.  
+- **Format:** JSON.  
 - **Process:**  
   - Extract frames from videos.  
   - Annotate bounding boxes around each detected person.  
@@ -97,7 +97,3 @@ The **People Counting System** demonstrates the practical application of deep le
 
 ✨ **Built by:** *Vidhi Jindal*  
 💡 *Thanks for exploring this project. Happy Learning!*  
-
----
-
-Let me know if you need any other tweaks! 😊
