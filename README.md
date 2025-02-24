@@ -40,7 +40,7 @@ The **People Counting System** is a computer vision-based application designed t
 
 ### 🔄 **1. Clone the Repository**  
 ```bash
-git clone [https://github.com/your-repository/people-counting-system.git](https://github.com/vidhi-github/People_Counting.git)
+git clone https://github.com/vidhi-github/People_Counting.git
 cd people-counting-system
 ```  
 
